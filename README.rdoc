@@ -1,3 +1,7 @@
+This is my first app that deals with the creation and altering of Models in
+rails.
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
